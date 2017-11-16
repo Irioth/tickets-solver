@@ -8,3 +8,7 @@ When you get into a bus and pay your fare, you receive a ticket with an arbitrar
 - You can join digits into several-digit numbers.
 - You can only put parentheses (, ) and arithmetic operations (set of allowed operations can vary; addition +, subtraction -, multiplication *, division /, exponentiation ^, factorial !, square root, unary minus).
 - The result must be a valid arithmetical expression, which can be successfully calculated. 
+
+### Results
+
+Valid arithmetical expression found for 999858 tickets. Only 142 tickets remains [unsolved](./unsolved.txt)
