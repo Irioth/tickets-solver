@@ -9,6 +9,13 @@ When you get into a bus and pay your fare, you receive a ticket with an arbitrar
 - You can only put parentheses (, ) and arithmetic operations (set of allowed operations can vary; addition +, subtraction -, multiplication *, division /, exponentiation ^, factorial !, square root, unary minus).
 - The result must be a valid arithmetical expression, which can be successfully calculated. 
 
+### Examples
+
+	000004  (0!+0!+0!+0!)*(0!+4!)   == 100
+	458392  (sqrt(4)*5)!*(8-3)/9!*2 == 100
+	957129  (-sqrt(9)+5)^7)+1-29    == 100
+
+
 ### Results
 
 Valid arithmetical expression found for 999858 tickets. Only 142 tickets remains [unsolved](./unsolved.txt)
