@@ -12,4 +12,5 @@ func TestPowerReverse(t *testing.T) {
 		t.Log("wrong value")
 		t.Fail()
 	}
+
 }
